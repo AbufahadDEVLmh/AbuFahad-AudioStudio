@@ -1,0 +1,25 @@
+{
+  "dsp": {
+    "enabled": true,
+    "preamp_db": 12.0,
+    "bass_boost_db": 13.0,
+    "body_boost_db": 7.0,
+    "presence_db": 4.0,
+    "sub_bass": 0.8,
+    "drive": 3.5,
+    "gate_db": -75.0,
+    "echo_delay_ms": 245.0,
+    "echo_feedback": 0.76,
+    "echo_level": 1.55,
+    "reverb_level": 0.8,
+    "reverb_decay": 0.78,
+    "output_gain_db": 6.0
+  },
+  "preset_name": "كهف مرعب (Haunted Cavern 🔥)",
+  "effects_amount": 100.0,
+  "input_device": "[WASAPI] Microphone (fifine SC3)",
+  "output_device": "[WASAPI] Voicemeeter Input (VB-Audio Voicemeeter VAIO)",
+  "monitor_device": "[WASAPI] Voicemeeter AUX Input (VB-Audio Voicemeeter VAIO)",
+  "monitor_enabled": false,
+  "monitor_volume": 1.2
+}
